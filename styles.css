@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+#heading{
+	border:1px solid purple;
+	border-left-width: 5px;
+	border-left-color:green;
+	background-color:purple;
+	width:200px;
+}
+h1{
+	color:white;
+padding:10px;
+	font-size:20px;
+}
+div{
+}
+.main{
+}
